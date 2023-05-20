@@ -1,5 +1,6 @@
 # d3_cmpm120
 A simple physics game by Ewin.
+Link to game: https://senorpapistas.github.io/d3_cmpm120/
 
 Code requirements:
  - Continuous and discrete inputs from player: Player can grab a fist and move it around to punch fish
