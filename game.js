@@ -51,7 +51,7 @@ class Level1 extends Phaser.Scene {
                 gravity: { y: 0 }
             },
             matter: {
-                debug: true,
+                debug: false,
                 gravity: { y: 0 },
                 plugins: {attractors: true}
             }
@@ -123,7 +123,7 @@ class Level2 extends Phaser.Scene {
                 gravity: { y: 0 }
             },
             matter: {
-                debug: true,
+                debug: false,
                 gravity: { y: 0 },
                 plugins: {attractors: true}
             }
@@ -195,7 +195,7 @@ class Level3 extends Phaser.Scene {
                 gravity: { y: 0 }
             },
             matter: {
-                debug: true,
+                debug: false,
                 gravity: { y: 0 },
                 plugins: {attractors: true}
             }
